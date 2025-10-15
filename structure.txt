@@ -1,0 +1,17 @@
+automation_framework/
+├── pages/
+│   ├── __init__.py
+│   ├── base_page.py
+│   ├── login_page.py
+│   ├── register_page.py
+│   └── search_page.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_login.py
+│   ├── test_register.py
+│   └── test_search.py
+├── utilities/
+│   ├── __init__.py
+│   └── config.py
+├── conftest.py
+└── pytest.ini
